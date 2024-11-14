@@ -7,9 +7,6 @@ A game written in Python that brings the classic charm of Tetris to life. This P
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - **Classic Gameplay**: Enjoy the timeless mechanics of Tetris.
