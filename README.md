@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=v4Ebj-fQb1Y)
+[![Tetris in Python Game Demo](https://i.ytimg.com/vi/v4Ebj-fQb1Y/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFEgWChlMA8=&rs=AOn4CLAI-lB2Mw-r6Si6MiVkvwxEaRIkJg)](https://www.youtube.com/watch?v=v4Ebj-fQb1Y)
 # Tetris
 
 A game written in Python that brings the classic charm of Tetris to life. This Python-based Tetris clone features falling tetrominoes, a responsive control system, and a scoring mechanism, all woven together to provide an engaging and nostalgic gaming experience. Built using libraries like Pygame, this project showcases the power of Python in creating interactive and visually appealing games.
